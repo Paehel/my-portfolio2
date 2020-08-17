@@ -1,0 +1,32 @@
+   
+  h1{
+    color:aqua;
+
+}
+
+
+
+.Header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Games{
+    background-color: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-shrink: 4;
+    color: crimson;
+}
+
+.Footer{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2, p {
+    text-align: center;
+}
